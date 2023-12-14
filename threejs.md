@@ -45,7 +45,7 @@ Nümunə olaraq, bir materialın aşağıdakı xüsusiyyətləri göstərmək ol
 
     Shaderlar, 3D obyektlərin materiallarını tənzimləmək üçün istifadə edilən daha ətraflı və əlverişli alətlərdir. Shaderlar gözəl material effektləri, rənglər və interaktiv animasiya yaratmağa imkan verir. Shaderlar obyektlərin görünüşünü daha kompleks və ya müasir effektlər əldə etmək üçün kodla tənzimləməyə imkan verir.
 
-      #### Shaderlər iki yerə bölünür
+#### Shaderlər iki yerə bölünür
 
         - Vertex Shader: Bu shader 3D obyektlərin konfiqurasiyasını və mövqeyini tənzimləmək üçün istifadə edilir. Obyektlərin hansı bölgələrə düzələcəyi və necə hərəkət etdiyi kimi şeyləri tənzimləməyə kömək edir.
         - Fragment Shader: Bu shader obyektlərin görüntüsünü və rəngini tənzimləmək üçün istifadə edilir. Materiallar və görüntünün detallarını tənzimləməyə imkan verir.
@@ -59,6 +59,14 @@ Nümunə olaraq, bir materialın aşağıdakı xüsusiyyətləri göstərmək ol
 ---
 
 - Open Source olması
+  
   Three.js, open source layihədir və GitHub-da ictimai olaraq paylaşılır. Bu, texnologiyanı inkişaf etdirmək və məsləhətləşmək üçün böyük bir mənbədən istifadə etmək imkanı yaradır.
 
 ---
+
+```
+İstərdim ki, sizə three.js-in istifadə qaydasınıda göstərim.Lakin blogu dahada uzatmaq istəmədim :)
+Three.js-in rəsmi saytına daxil olub,dokumentasiyanı oxuya bilərsiniz.
+```
+
+# Xoş Kodlamalar🚀
