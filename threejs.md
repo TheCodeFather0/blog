@@ -14,3 +14,23 @@ Three.js, veb səhifələrinə 3D qrafika əlavə etmək üçün istifadə oluna
 ## Three.js brauzerdə necə işləyir?
 
 ![](https://media.tenor.com/BdcwU6gstRoAAAAC/pooh-think.gif)
+
+Bunun üçün WebGl-dən istifadə edilir. WebGl Veb brauzerdə interaktiv 2D və 3D qrafika göstərmək üçün JavaScript API -dir
+
+![](https://avatars.githubusercontent.com/u/20603608?s=280&v=4)
+
+## Əsas xüsusiyyətləri:
+
+- 3D Modelerlərin İnteqrasiyası
+  Three.js, Blender, Maya və 3ds Max kimi populyar 3D modelerlər ilə inteqrasiya edilə bilir. Bu, 3D modelerin veb səhifələrində rahatca göstərilməsinə imkan verir.
+
+- Shaderlər və Materiallar
+  Three.js rəng və material effektlərini yaratmağa imkan verən güclü bir shader sistemi ilə gəlir..
+
+  ### Materiallar
+
+  Materiallar Three.js-də 3D obyektlərin rəngini, görüntüsünü və bu kimi başqa xüsusiyyətlərini tənzimləmək üçün istifadə olunan funksiyalardır.
+  Materiallar obyektin fiziki görünüşünü müəyyənləşdirmək üçün istifadə olunurlar.
+  Nümunə olaraq, bir materialın aşağıdakı xüsusiyyətləri göstərmək olar:
+
+![](https://blog.logrocket.com/wp-content/uploads/2020/12/threejs-meshnormalmaterial.png)
