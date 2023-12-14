@@ -27,7 +27,6 @@ Bunun üçün WebGl-dən istifadə edilir. WebGl Veb brauzerdə interaktiv 2D v�
 - Shaderlər və Materiallar
   Three.js rəng və material effektlərini yaratmağa imkan verən güclü bir shader sistemi ilə gəlir..
 
-<ins>
   ### Materiallar
 
 Materiallar Three.js-də 3D obyektlərin rəngini, görüntüsünü və bu kimi başqa xüsusiyyətlərini tənzimləmək üçün istifadə olunan funksiyalardır.
@@ -39,7 +38,8 @@ Nümunə olaraq, bir materialın aşağıdakı xüsusiyyətləri göstərmək ol
 - Opacity vƏ Transparency: Materialın şəffaflığını tənzimləyir
 
 ![](https://blog.logrocket.com/wp-content/uploads/2020/12/threejs-meshnormalmaterial.png)
-</ins>
+
+---
 
 ### Shader-lər
 
