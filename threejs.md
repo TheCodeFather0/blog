@@ -31,9 +31,9 @@ Bunun üçün WebGl-dən istifadə edilir. WebGl Veb brauzerdə interaktiv 2D v�
 
 ### Materiallar
 
-  Materiallar Three.js-də 3D obyektlərin rəngini, görüntüsünü və bu kimi başqa xüsusiyyətlərini tənzimləmək üçün istifadə olunan funksiyalardır.
-  Materiallar obyektin fiziki görünüşünü müəyyənləşdirmək üçün istifadə olunurlar.
-  Nümunə olaraq, bir materialın aşağıdakı xüsusiyyətləri göstərmək olar:
+Materiallar Three.js-də 3D obyektlərin rəngini, görüntüsünü və bu kimi başqa xüsusiyyətlərini tənzimləmək üçün istifadə olunan funksiyalardır.
+Materiallar obyektin fiziki görünüşünü müəyyənləşdirmək üçün istifadə olunurlar.
+Nümunə olaraq, bir materialın aşağıdakı xüsusiyyətləri göstərmək olar:
 
     - Color: Obyektin rəngini tənzimləmək üçün istifadə olunur
     - Bump Map: Obyektin qabarma xüsusiyyətini tənzimləyir
@@ -41,28 +41,24 @@ Bunun üçün WebGl-dən istifadə edilir. WebGl Veb brauzerdə interaktiv 2D v�
 
 ![](https://blog.logrocket.com/wp-content/uploads/2020/12/threejs-meshnormalmaterial.png)
 
----
-
 ### Shader-lər
 
-  Shaderlar, 3D obyektlərin materiallarını tənzimləmək üçün istifadə edilən daha ətraflı və əlverişli alətlərdir. Shaderlar gözəl material effektləri, rənglər və interaktiv animasiya yaratmağa imkan verir. Shaderlar obyektlərin görünüşünü daha kompleks və ya müasir effektlər əldə etmək üçün kodla tənzimləməyə imkan verir.
+    Shaderlar, 3D obyektlərin materiallarını tənzimləmək üçün istifadə edilən daha ətraflı və əlverişli alətlərdir. Shaderlar gözəl material effektləri, rənglər və interaktiv animasiya yaratmağa imkan verir. Shaderlar obyektlərin görünüşünü daha kompleks və ya müasir effektlər əldə etmək üçün kodla tənzimləməyə imkan verir.
 
-  #### Shaderlər iki yerə bölünür
+      #### Shaderlər iki yerə bölünür
 
-    - Vertex Shader: Bu shader 3D obyektlərin konfiqurasiyasını və mövqeyini tənzimləmək üçün istifadə edilir. Obyektlərin hansı bölgələrə düzələcəyi və necə hərəkət etdiyi kimi şeyləri tənzimləməyə kömək edir.
-    - Fragment Shader: Bu shader obyektlərin görüntüsünü və rəngini tənzimləmək üçün istifadə edilir. Materiallar və görüntünün detallarını tənzimləməyə imkan verir.
+        - Vertex Shader: Bu shader 3D obyektlərin konfiqurasiyasını və mövqeyini tənzimləmək üçün istifadə edilir. Obyektlərin hansı bölgələrə düzələcəyi və necə hərəkət etdiyi kimi şeyləri tənzimləməyə kömək edir.
+        - Fragment Shader: Bu shader obyektlərin görüntüsünü və rəngini tənzimləmək üçün istifadə edilir. Materiallar və görüntünün detallarını tənzimləməyə imkan verir.
 
 ![](https://img-c.udemycdn.com/course/750x422/5178164_f390.jpg)
 
----
+- VR və AR Dəstəyi
 
-### VR və AR Dəstəyi
-
-    Three.js, Virtual Reality (VR) və Augmented Reality (AR) tətbiqlər üçün dəstək verir.Bu, istifadəçilərinizə ən son texnologiyaları təcrübə etmək imkanı yaradır.
+  Three.js, Virtual Reality (VR) və Augmented Reality (AR) tətbiqlər üçün dəstək verir.Bu, istifadəçilərinizə ən son texnologiyaları təcrübə etmək imkanı yaradır.
 
 ---
 
-### Open Source olması
-   Three.js, open source layihədir və GitHub-da ictimai olaraq paylaşılır. Bu, texnologiyanı inkişaf etdirmək və məsləhətləşmək üçün böyük bir mənbədən istifadə etmək imkanı yaradır.
+- Open Source olması
+  Three.js, open source layihədir və GitHub-da ictimai olaraq paylaşılır. Bu, texnologiyanı inkişaf etdirmək və məsləhətləşmək üçün böyük bir mənbədən istifadə etmək imkanı yaradır.
 
 ---
