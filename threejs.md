@@ -39,8 +39,6 @@ Bunun üçün WebGl-dən istifadə edilir. WebGl Veb brauzerdə interaktiv 2D v�
 
 ![](https://blog.logrocket.com/wp-content/uploads/2020/12/threejs-meshnormalmaterial.png)
 
-  <ins />
-
 ### Shader-lər
 
 Shaderlar, 3D obyektlərin materiallarını tənzimləmək üçün istifadə edilən daha ətraflı və əlverişli alətlərdir. Shaderlar gözəl material effektləri, rənglər və interaktiv animasiya yaratmağa imkan verir. Shaderlar obyektlərin görünüşünü daha kompleks və ya müasir effektlər əldə etmək üçün kodla tənzimləməyə imkan verir.
